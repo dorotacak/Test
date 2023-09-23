@@ -1,0 +1,10 @@
+package Day27;
+
+public class Task89 {
+    public static void main(String[] args) {
+        String[] ShoppingList={"cheese", "pumpkin", "bread", "eggs", "milk", "almonds"};
+        for( int i=0;i<ShoppingList.length;i++){
+            System.out.println(ShoppingList[i]);
+        }
+    }
+}
